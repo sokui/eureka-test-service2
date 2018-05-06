@@ -12,4 +12,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://eureka-service-1.herokuapp.com:8761/eureka/,http://eureka-service-2.herokuapp.com:8762/eureka/
+      defaultZone: https://eureka-service-1.herokuapp.com:8761/eureka/,https://eureka-service-2.herokuapp.com:8762/eureka/
